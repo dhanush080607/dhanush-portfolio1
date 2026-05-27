@@ -6,7 +6,7 @@ A modern, animated, and fully responsive personal portfolio website built with p
 
 ## 🚀 Live Preview
 👉 *(Add your deployed link here — Vercel / Netlify / GitHub Pages)*  
-Example: https://your-portfolio-link.com
+Example: [https://your-portfolio-link.com](https://dhanush-portfolio1-two.vercel.app/)
 
 ---
 
